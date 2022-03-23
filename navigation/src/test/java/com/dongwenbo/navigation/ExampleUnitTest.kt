@@ -1,4 +1,4 @@
-package com.dongwenbo.myjetpack
+package com.dongwenbo.navigation
 
 import org.junit.Test
 

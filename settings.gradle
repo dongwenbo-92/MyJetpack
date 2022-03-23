@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "MyJetpack"
-include ':app'
+include ':navigation'

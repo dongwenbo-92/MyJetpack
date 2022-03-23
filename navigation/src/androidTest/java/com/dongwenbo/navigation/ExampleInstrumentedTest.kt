@@ -1,4 +1,4 @@
-package com.dongwenbo.myjetpack
+package com.dongwenbo.navigation
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.dongwenbo.myjetpack", appContext.packageName)
+        assertEquals("com.dongwenbo.navigation", appContext.packageName)
     }
 }
